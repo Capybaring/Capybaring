@@ -1,4 +1,6 @@
-- 👋 Hi,welcome to visit my github. There are some daily assignments, experiment reports and some code in my repositories and hope they will be helpful to you!
+- 👋 Hi,welcome to visit my github.
+- ✨ There are some daily assignments, experiment reports and some code in my repositories.
+- 🌼 Hope they will be helpful to you!
 
 
 <!---
