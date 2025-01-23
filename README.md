@@ -1,9 +1,1 @@
-- 👋 Hi,welcome to visit my github.
-- ✨ There are some daily assignments, experiment reports and some code in my repositories.
-- 🌼 Hope they will be helpful to you!
-
-
-<!---
-Capybaring/Capybaring is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=consolas&weight=800&size=24&pause=1000&color=f8d86a&background=E2E1E400&vCenter=true&width=435&lines=Welcome+to+visit+my+github+%F0%9F%8C%BC)](https://git.io/typing-svg)
