@@ -4,5 +4,5 @@
   </a>
 </div>
 <div align="center">
-  <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=Capybaring&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true"/>
+  <img align="center" width="300" src="https://github-readme-stats.vercel.app/api?username=Capybaring&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true"/>
 </div>
