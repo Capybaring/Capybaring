@@ -7,3 +7,6 @@
   <img align="center" width="400" src="https://streak-stats.demolab.com?user=Capybaring&theme=microsoft&hide_border=true&border_radius=1" alt="GitHub Streak" />
 </div>
 <h1></h1>
+<div align="center">
+    <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Capybaring&theme=github-compact&hide_border=true&area=true" />
+</div>
