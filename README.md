@@ -10,6 +10,14 @@
             <img align="center" width="375" src="https://streak-stats.demolab.com?user=Capybaring&theme=microsoft&hide_border=true&border_radius=1" alt="GitHub Streak" />
         </span>
     </div>
+    <div>
+        <span>
+            <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Capybaring&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
+        </span>
+        <span> 
+            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Capybaring&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
+        </span>
+    </div>
     <div align="center">
         <img width="750" src="https://github-readme-activity-graph.vercel.app/graph?username=Capybaring&theme=github-compact&hide_border=true&area=true" />
     </div>
