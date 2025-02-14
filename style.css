@@ -1,3 +1,31 @@
+/* style.css */
+
+/* 修改字体样式和大小 */
 body {
-  background-color:black;
+  font-family: Arial, sans-serif;
+  font-size: 16px;
 }
+
+/* 调整段落间距和行距 */
+p {
+  margin-bottom: 10px;
+  line-height: 1.5;
+}
+
+/* 添加背景颜色和边框 */
+.code-block {
+  background-color: #f1f1f1;
+  border: 1px solid #ccc;
+  padding: 10px;
+}
+
+/* 修改链接样式 */
+a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
