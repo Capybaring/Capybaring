@@ -4,7 +4,6 @@
             Welcome To My Github ~~~///(^v^)\\\~~~
         </h2>
     </div>
-    <h2></h2>
     <div align="center">
         <span>
             <img align="center" width="375" src="https://github-readme-stats.vercel.app/api?username=Capybaring&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true"/>
