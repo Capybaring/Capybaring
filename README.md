@@ -1,6 +1,8 @@
 <body>
     <div align="center">
-        <img src="https://readme-typing-svg.demolab.com?font=consolas&weight=600&size=28&duration=4000&pause=1000&color=F8D86A&background=E2E1E400&center=true&vCenter=true&width=600&height=48&lines=Hi~+Welcome+to+my+Github φ(゜▽゜*)♪" alt="Typing SVG" />
+        <h2>
+            Welcome To My Github ~~~///(^v^)\\\~~~
+        </h2>
     </div>
     <h2></h2>
     <div align="center">
